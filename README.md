@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Vaibhav Pratap Singh Solanki
 
-### B.Tech CSE Student @ LPU | Full Stack Dev Intern | Python | IoT Builder
+### B.Tech CSE @ LPU | Python & Web Developer | AI-Assisted Builder | Open Source
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vebvsolanki)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vebvsolanki35)
@@ -17,11 +17,11 @@
 
 - 🎓 **B.Tech CSE** at Lovely Professional University (2025–2029)
 - 💼 **Full Stack Web Dev Intern** @ Future Interns (Mar–Apr 2026)
-- 🌱 Currently learning **JavaScript, React.js, and DSA**
-- 🔭 Building projects in **Python, Web Dev & IoT**
-- 🎯 Goal: **Crack campus placements** with strong DSA + project portfolio
-- 🏹 U19 District Archery Player | ⚽ Football Captain | 🎖️ NCC Cadet
-- 📍 Ludhiana, Punjab, India
+- 🛡️ Built **ORRAS** — Open-source Real-time Risk Assessment System (Python + Streamlit + 13 APIs)
+- 🎯 Built **PlacPrep** — Placement prep platform for engineering students (React.js + Vercel)
+- 🌱 Currently learning **JavaScript deeply, React.js fundamentals & DSA**
+- 🏹 U19 District Archery Player | ⚽ District Football Captain | 🎖️ NCC Cadet
+- 📍 Punjab, India
 
 ---
 
@@ -35,32 +35,30 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Tools & Platforms**
+**Frameworks & Tools**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-**Learning**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| 🌐 **Personal Portfolio** | Full portfolio website with dark theme & animations | HTML, CSS, JS | [Live](https://vebvsolanki35.github.io/FUTURE_FS_01) |
-| 🏦 **ATM Banking System** | CLI-based ATM with PIN auth, deposit & withdrawal | Python | [Repo](https://github.com/Vebvsolanki35/python-atm-system) |
-| 💰 **Expense Tracker** | Track and categorize daily expenses | Python | [Repo](https://github.com/Vebvsolanki35/expense-tracker-using-python) |
-| 📐 **2D Geometry Calculator** | Menu-driven geometry operations using OOP | Python | [Repo](https://github.com/Vebvsolanki35/2D_geometry_operations) |
-| 🏠 **Smart Home Safety System** | IoT home monitoring with ESP32 & sensors | ESP32, IoT | WIP |
-| 🤖 **Obstacle Avoidance Robot** | Autonomous robot using Arduino & ultrasonic sensor | Arduino | WIP |
+| # | Project | Description | Tech | Links |
+|---|---------|-------------|------|-------|
+| 🥇 | **ORRAS — Risk Assessment System** | Real-time global threat intelligence platform pulling from 13 open APIs (NASA, GDELT, OpenSky). 12-page dashboard with 3D globe, anomaly detection & scenario simulator | Python, Streamlit, SQLite, Plotly | [Live](https://orras-intel.streamlit.app) · [GitHub](https://github.com/Vebvsolanki35) |
+| 🥈 | **PlacPrep** | All-in-one placement prep platform for engineering students. DSA tracker (150+ problems), aptitude, internship finder, resume ATS checker, roadmaps & AI tools | React.js, Node.js, PostgreSQL, Vercel | [Live](https://placprep-website.vercel.app) · [GitHub](https://github.com/Vebvsolanki35/placprep-website) |
+| 🥉 | **Personal Portfolio Website** | Responsive dark-theme portfolio with custom cursor, scroll animations & SEO structure | HTML5, CSS3, JavaScript | [Live](https://vebvsolanki35.github.io/FUTURE_FS_01) · [GitHub](https://github.com/Vebvsolanki35/FUTURE_FS_01) |
+| 4 | **CLI ATM Banking System** | PIN authentication, deposit, withdrawal & balance check via command line | Python | [GitHub](https://github.com/Vebvsolanki35/python-atm-system) |
+| 5 | **IoT Smart Home Monitor** | Sensor-based safety system with real-time alerts using ESP32 + 3 sensors | ESP32, MQ-135, IoT | — |
+| 6 | **Obstacle Avoidance Robot** | Self-navigating robot using ultrasonic sensing | Arduino, L298N | — |
 
 ---
 
