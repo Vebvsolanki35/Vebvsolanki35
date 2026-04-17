@@ -16,10 +16,10 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE** at Lovely Professional University (2025–2029)
-- 💼 **Full Stack Web Dev Intern** @ Future Interns (Mar–Apr 2026)
-- 🛡️ Built **ORRAS** — Open-source Real-time Risk Assessment System (Python + Streamlit + 13 APIs)
-- 🎯 Built **PlacPrep** — Placement prep platform for engineering students (React.js + Vercel)
-- 🌱 Currently learning **JavaScript deeply, React.js fundamentals & DSA**
+- 🏆 **Full Stack Web Dev Intern** @ Future Interns — Certificate + Letter of Recommendation (2026)
+- 🛡️ Engineered **ORRAS** — Real-time global risk intelligence system (Python + Streamlit + 13 APIs)
+- 🎯 Founded **PlacPrep** — Placement prep platform for engineering students (React.js + Vercel)
+- 🌱 Currently learning **DSA, JavaScript deeply & React.js fundamentals**
 - 🏹 U19 District Archery Player | ⚽ District Football Captain | 🎖️ NCC Cadet
 - 📍 Punjab, India
 
@@ -53,21 +53,22 @@
 
 | # | Project | Description | Tech | Links |
 |---|---------|-------------|------|-------|
-| 🥇 | **ORRAS — Risk Assessment System** | Real-time global threat intelligence platform pulling from 13 open APIs (NASA, GDELT, OpenSky). 12-page dashboard with 3D globe, anomaly detection & scenario simulator | Python, Streamlit, SQLite, Plotly | [Live](https://orras-intel.streamlit.app) · [GitHub](https://github.com/Vebvsolanki35) |
-| 🥈 | **PlacPrep** | All-in-one placement prep platform for engineering students. DSA tracker (150+ problems), aptitude, internship finder, resume ATS checker, roadmaps & AI tools | React.js, Node.js, PostgreSQL, Vercel | [Live](https://placprep-website.vercel.app) · [GitHub](https://github.com/Vebvsolanki35/placprep-website) |
-| 🥉 | **Personal Portfolio Website** | Responsive dark-theme portfolio with custom cursor, scroll animations & SEO structure | HTML5, CSS3, JavaScript | [Live](https://vebvsolanki35.github.io/FUTURE_FS_01) · [GitHub](https://github.com/Vebvsolanki35/FUTURE_FS_01) |
-| 4 | **CLI ATM Banking System** | PIN authentication, deposit, withdrawal & balance check via command line | Python | [GitHub](https://github.com/Vebvsolanki35/python-atm-system) |
-| 5 | **IoT Smart Home Monitor** | Sensor-based safety system with real-time alerts using ESP32 + 3 sensors | ESP32, MQ-135, IoT | — |
-| 6 | **Obstacle Avoidance Robot** | Self-navigating robot using ultrasonic sensing | Arduino, L298N | — |
+| 🥇 | **ORRAS — Risk Assessment System** | Real-time global threat intelligence platform pulling from 13 open APIs (NASA, GDELT, OpenSky). 12-page dashboard with 3D globe, anomaly detection & scenario simulator | Python, Streamlit, SQLite, Plotly | [Live](https://orras-intel.streamlit.app) · [GitHub](https://github.com/Vebvsolanki35/ORRAS) |
+| 🥈 | **PlacPrep** | All-in-one placement prep platform for engineering students. DSA tracker (150+ problems), aptitude, internship finder, Resume ATS checker, roadmaps & AI tools | React.js, Tailwind CSS, Vercel | [Live](https://placprep-website.vercel.app) · [GitHub](https://github.com/Vebvsolanki35/placprep-website) |
+| 🥉 | **Verdana Grand Hotel & Spa** | Luxury hotel website with sticky navbar, hero animations, rooms & pricing, booking form, gallery and testimonials | HTML5, CSS3, Vanilla JS | [GitHub](https://github.com/Vebvsolanki35/FUTURE_FS_03) |
+| 4 | **Personal Portfolio Website** | Responsive dark-theme portfolio with custom cursor, scroll animations & SEO structure | HTML5, CSS3, JavaScript | [Live](https://vebvsolanki35.github.io/FUTURE_FS_01) · [GitHub](https://github.com/Vebvsolanki35/FUTURE_FS_01) |
+| 5 | **Mini CRM System** | Client Lead Management System with lead tracking, status updates and CRUD operations | HTML5, CSS3, JavaScript | [GitHub](https://github.com/Vebvsolanki35/FUTURE_FS_02) |
+| 6 | **CLI ATM Banking System** | PIN authentication, deposit, withdrawal & balance check via command line | Python | [GitHub](https://github.com/Vebvsolanki35/python-atm-system) |
 
 ---
 
 ## 🏆 Certifications
 
-- 📜 Programming Fundamentals using Python – Part 1 & 2 — **Infosys Springboard** (2026)
-- 📜 HTML – Advanced — **Infosys Springboard** (2026)
-- 📜 Git Training — **Simplilearn** (2026)
-- 📜 CAD and 3D Printing — **NASSCOM Foundation** (2026)
+- 🎖️ **Full Stack Web Development** — Future Interns *(Certificate + Letter of Recommendation, 2026)*
+- 📜 **Programming Fundamentals using Python – Part 1 & 2** — Infosys Springboard *(2026)*
+- 📜 **HTML – Advanced** — Infosys Springboard *(2026)*
+- 📜 **Git Training** — Simplilearn *(2026)*
+- 📜 **CAD and 3D Printing** — NASSCOM Foundation *(2026)*
 
 ---
 
